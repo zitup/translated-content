@@ -12013,14 +12013,6 @@
       "loella16"
     ]
   },
-  "Web/API/ByteString": {
-    "modified": "2019-03-23T22:50:30.417Z",
-    "contributors": [
-      "BEHOUBA",
-      "SphinxKnight",
-      "Hell_Carlito"
-    ]
-  },
   "Web/API/CDATASection": {
     "modified": "2020-10-15T21:37:54.310Z",
     "contributors": [
@@ -43935,6 +43927,14 @@
       "Jeremie",
       "fscholz",
       "BenoitL"
+    ]
+  },
+  "conflicting/Web/JavaScript/Reference/Global_Objects/String_3d75175c2fdefd53eabc834714039760": {
+    "modified": "2019-03-23T22:50:30.417Z",
+    "contributors": [
+      "BEHOUBA",
+      "SphinxKnight",
+      "Hell_Carlito"
     ]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Symbol": {
