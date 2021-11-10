@@ -27954,14 +27954,6 @@
       "ExE-Boss"
     ]
   },
-  "Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property": {
-    "modified": "2020-12-06T14:47:19.654Z",
-    "contributors": [
-      "mfuji09",
-      "ExE-Boss",
-      "hommaam"
-    ]
-  },
   "Web/CSS/CSS_Box_Alignment": {
     "modified": "2020-05-22T07:14:00.686Z",
     "contributors": [
@@ -48476,6 +48468,14 @@
     "modified": "2019-01-16T15:49:24.673Z",
     "contributors": [
       "Marsf"
+    ]
+  },
+  "conflicting/Web/CSS/cursor": {
+    "modified": "2020-12-06T14:47:19.654Z",
+    "contributors": [
+      "mfuji09",
+      "ExE-Boss",
+      "hommaam"
     ]
   },
   "conflicting/Web/CSS/url()": {
