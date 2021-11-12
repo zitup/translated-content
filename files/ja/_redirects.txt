@@ -2804,13 +2804,13 @@
 /ja/docs/MDN/Community/Working_in_community	/ja/docs/orphaned/MDN/Community/Working_in_community
 /ja/docs/MDN/Contribute/Content	/ja/docs/MDN/Guidelines
 /ja/docs/MDN/Contribute/Content/Best_practices	/ja/docs/MDN/Guidelines/Conventions_definitions
-/ja/docs/MDN/Contribute/Content/CSS_style_guide	/ja/docs/MDN/Guidelines/CSS_style_guide
+/ja/docs/MDN/Contribute/Content/CSS_style_guide	/ja/docs/MDN/Contribute/Markdown_in_MDN
 /ja/docs/MDN/Contribute/Content/Does_this_belong_on_MDN	/ja/docs/MDN/Guidelines/Does_this_belong_on_MDN
 /ja/docs/MDN/Contribute/Content/Writing_style_guide	/ja/docs/MDN/Guidelines/Writing_style_guide
 /ja/docs/MDN/Contribute/FAQ	/ja/docs/MDN/Contribute
 /ja/docs/MDN/Contribute/Guidelines	/ja/docs/MDN/Guidelines
 /ja/docs/MDN/Contribute/Guidelines/Best_practices	/ja/docs/MDN/Guidelines/Conventions_definitions
-/ja/docs/MDN/Contribute/Guidelines/CSS_style_guide	/ja/docs/MDN/Guidelines/CSS_style_guide
+/ja/docs/MDN/Contribute/Guidelines/CSS_style_guide	/ja/docs/MDN/Contribute/Markdown_in_MDN
 /ja/docs/MDN/Contribute/Guidelines/Code_guidelines	/ja/docs/MDN/Guidelines/Code_guidelines
 /ja/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS	/ja/docs/MDN/Guidelines/Code_guidelines/CSS
 /ja/docs/MDN/Contribute/Guidelines/Code_guidelines/General	/ja/docs/MDN/Guidelines/Code_guidelines/General
@@ -2878,6 +2878,7 @@
 /ja/docs/MDN/Dashboards/Editors	/ja/docs/orphaned/MDN/Dashboards/Editors
 /ja/docs/MDN/Feedback	/ja/docs/MDN/Contribute/Feedback
 /ja/docs/MDN/Getting_started	/ja/docs/MDN/Contribute/Getting_started
+/ja/docs/MDN/Guidelines/CSS_style_guide	/ja/docs/MDN/Contribute/Markdown_in_MDN
 /ja/docs/MDN/Kuma	/ja/docs/MDN/Yari
 /ja/docs/MDN/Kuma/Server_charts	/ja/docs/orphaned/MDN/Kuma/Server_charts
 /ja/docs/MDN/Structures/API_references	/ja/docs/orphaned/MDN/Structures/API_references
