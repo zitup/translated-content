@@ -2954,7 +2954,7 @@
 /ja/docs/Notification_object/title	/ja/docs/Web/API/Notification/title
 /ja/docs/NsIDOMHTMLMediaElement	/ja/docs/orphaned/NsIDOMHTMLMediaElement
 /ja/docs/Offline_resources_in_Firefox/Using_audio_and_video_in_Firefox	/ja/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content
-/ja/docs/Online_and_offline_events	/ja/docs/Web/API/Navigator/Online_and_offline_events
+/ja/docs/Online_and_offline_events	/ja/docs/conflicting/Web/API/Navigator/onLine
 /ja/docs/Other_JavaScript_tools	/ja/docs/Tools
 /ja/docs/Parsing_and_serializing_XML	/ja/docs/Web/Guide/Parsing_and_serializing_XML
 /ja/docs/Participating_in_the_Mozilla_project	/ja/docs/orphaned/Participating_in_the_Mozilla_project
@@ -3350,6 +3350,7 @@
 /ja/docs/Web/API/MediaStreamConstraints	/ja/docs/conflicting/Web/API/MediaDevices/getUserMedia
 /ja/docs/Web/API/MouseEvent/which	/ja/docs/Web/API/UIEvent/which
 /ja/docs/Web/API/Navigator.getUserMedia	/ja/docs/Web/API/Navigator/getUserMedia
+/ja/docs/Web/API/Navigator/Online_and_offline_events	/ja/docs/conflicting/Web/API/Navigator/onLine
 /ja/docs/Web/API/Navigator/registerContentHandler	/ja/docs/orphaned/Web/API/Navigator/registerContentHandler
 /ja/docs/Web/API/Navigator/userAgent	/ja/docs/orphaned/Web/API/NavigatorID/userAgent
 /ja/docs/Web/API/NavigatorConcurrentHardware	/ja/docs/orphaned/Web/API/NavigatorConcurrentHardware
@@ -3365,7 +3366,7 @@
 /ja/docs/Web/API/NavigatorLanguage.languages	/ja/docs/orphaned/Web/API/NavigatorLanguage/languages
 /ja/docs/Web/API/NavigatorLanguage/language	/ja/docs/orphaned/Web/API/NavigatorLanguage/language
 /ja/docs/Web/API/NavigatorLanguage/languages	/ja/docs/orphaned/Web/API/NavigatorLanguage/languages
-/ja/docs/Web/API/NavigatorOnLine/Online_and_offline_events	/ja/docs/Web/API/Navigator/Online_and_offline_events
+/ja/docs/Web/API/NavigatorOnLine/Online_and_offline_events	/ja/docs/conflicting/Web/API/Navigator/onLine
 /ja/docs/Web/API/NavigatorOnLine/onLine	/ja/docs/Web/API/Navigator/onLine
 /ja/docs/Web/API/NavigatorStorage	/ja/docs/orphaned/Web/API/NavigatorStorage
 /ja/docs/Web/API/NavigatorStorage/storage	/ja/docs/orphaned/Web/API/NavigatorStorage/storage
